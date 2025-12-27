@@ -1,4 +1,3 @@
-# python-projects
 # Python Projects
 
 A simple collection of Python projects for learning and practice.
